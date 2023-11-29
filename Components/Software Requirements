@@ -1,0 +1,7 @@
+Arduino IDE:
+-Download and install the Arduino Integrated Development Environment (IDE) from Arduino Software.
+
+Arduino Libraries:
+-Install necessary libraries for your sensors and display. For example:
+PulseSensor Playground for the heart rate sensor.
+Adafruit Sensor Library and DHT Sensor Library for temperature sensor integration.
