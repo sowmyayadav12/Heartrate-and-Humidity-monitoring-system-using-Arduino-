@@ -1,0 +1,11 @@
+Hardware Requirements:
+
+Arduino Board:
+- Arduino Uno
+Heart Rate Sensor:
+-3 pin Pulse Sensor).
+Temperature Sensor:
+-DHT11 Temperature and Humidity Sensor
+Connecting Wires:
+-Jumper wires for connecting components.
+Breadboard
